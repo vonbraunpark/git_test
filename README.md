@@ -5,3 +5,7 @@ github test 할 수 있는 저장소
   git은 코드의 버전 및 변경 이력을 관리하는 프로그램입니다.
   - github의 개요
   - github에 repository 생성하기
+  - git add
+    git status : 소스 변경 상태 확인
+    git commit
+    git push
