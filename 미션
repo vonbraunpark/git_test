@@ -1,0 +1,11 @@
+github팀 미션
+1.밥조를 기존으로 repository를 생성
+ 1) 모든 팀원 
+ -  repository fork
+ -  성명으로 브랜치 생성
+ -  각 브랜치에서 판일을 하나 생성
+ -  작업 후 pull request
+
+2) 팀장
+  - merge
+  - main brach를 캡처해서 전송
